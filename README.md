@@ -1,2 +1,2 @@
-# indonesian_twitter_cyberbullying_detection
+# indonesian twitter cyberbullying detection
 Cyberbullying detection on Indonesian Twitter's Tweet
